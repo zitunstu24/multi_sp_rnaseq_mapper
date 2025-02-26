@@ -1,7 +1,7 @@
 
 # Cross Species SRA Download, Alignment and Benchmarking Tool
 
-This tool automates the process of downloading SRA samples, aligning them to a reference genome using the STAR aligner, and cleaning up fastq files afterward. The tool is designed to be modular, configurable, and easy to install, making it suitable for bioinformatics workflows.
+This tool automates the process of downloading SRA samples, aligning them to a reference genome using the STAR and Kallisto aligner, and cleaning up fastq files afterward. The tool is designed to be modular, configurable, and easy to install, making it suitable for bioinformatics workflows.
 
 ## Features
 
