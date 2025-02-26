@@ -51,7 +51,7 @@ An example configuration file can be found at `config/default_config.yml`. Here'
 
 # Configuration 
 directories:
-  genome_dir: "/winmounts/khayer6872/AG-Gutjahr/Group_Projects/abul_k/p0424-AK/genome_gff3"
+  genome_dir: "./genome_gff3"
   output_dir: "./data/outputs/"
 
 
