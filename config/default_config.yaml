@@ -1,0 +1,9 @@
+
+directories:
+  genome_dir: "/winmounts/khayer6872/AG-Gutjahr/Group_Projects/abul_k/p0424-AK/genome_gff3"
+  output_dir: "./data/outputs/"
+
+master_table: "./data/inputs/master_table.csv" 
+
+star:
+  threads: 100

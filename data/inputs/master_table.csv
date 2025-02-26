@@ -1,0 +1,27 @@
+SRA_ID,description,sample_name,layout,organism,bio_project,species,groups,respective_controls
+SRR9663046,the mutant with D14L (LOC_Os03g32270) was knockout,d14l-2,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,d14l,WT
+SRR9663047,the mutant with D14L (LOC_Os03g32270) was knockout,d14l-1,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,d14l,WT
+SRR9663053,the mutant with D14L (LOC_Os03g32270) was knockout,d14l-3,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,d14l,WT
+SRR9663060,the mutant with loss-of-function of D14 (LOC_Os03g10620),d14-2,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,d14,WT
+SRR9663061,the mutant with loss-of-function of D14 (LOC_Os03g10620),d14-1,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,d14,WT
+SRR9663063,the mutant with loss-of-function of D14 (LOC_Os03g10620),d14-3,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,d14,WT
+SRR9663069,wild type,WT-1,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,WT,
+SRR9663072,wild type,WT-2,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,WT,
+SRR9663073,wild type,WT-3,PAIRED,Oryza sativa Japonica Group,PRJNA553596,rice,WT,
+SRR14458896,mock,WT_mock,PAIRED,Brachypodium distachyon,PRJNA727832,brachy,WT_mock,
+SRR14458897,1 µM KAR,WT_KAR1,PAIRED,Brachypodium distachyon,PRJNA727832,brachy,WT_KAR,WT_mock
+SRR14458898,1 µM KAR,WT_KAR2,PAIRED,Brachypodium distachyon,PRJNA727832,brachy,WT_KAR,WT_mock
+SRR14458908,mock,WT_mock,PAIRED,Brachypodium distachyon,PRJNA727832,brachy,WT_mock,
+SRR14458909,1 µM KAR,WT_KAR1,PAIRED,Brachypodium distachyon,PRJNA727832,brachy,WT_KAR,WT_mock
+SRR14458920,mock,WT_mock,PAIRED,Brachypodium distachyon,PRJNA727832,brachy,WT_mock,
+DRR284685,24h gemma-WT2,WT gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,WT_gemma,
+DRR284686,24h gemma-WT3,WT gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,WT_gemma,
+DRR284687,24h gemma-kai2a 1,kai2a-1 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,kai2a-1 ,WT_gemma
+DRR284688,24h gemma-kai2a 2,kai2a-1 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,kai2a-1,WT_gemma
+DRR284689,24h gemma-kai2a 3,kai2a-1 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,kai2a-1,WT_gemma
+DRR284690,24h gemma-kai2b 1,kai2b-1 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,kai2b-1,WT_gemma
+DRR284691,24h gemma-kai2b 2,kai2b-1 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,kai2b-1,WT_gemma
+DRR284692,24h gemma-kai2b 3,kai2b-1 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,kai2b-1,WT_gemma
+DRR284693,24h gemma-max2 1,max2-2 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,max2-2,WT_gemma
+DRR284694,24h gemma-max2 2,max2-2 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,max2-2,WT_gemma
+DRR284695,24h gemma-max2 3,max2-2 gemma,PAIRED,Marchantia polymorpha,PRJDB11425,marchantia,max2-2,WT_gemma
