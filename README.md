@@ -35,7 +35,7 @@ Python 3.8+: The tool requires Python 3.8 or higher.
 ## How to use it
 
 ```bash
-git clone [Git link](https://github.com/zitunstu24/multi_sp_rnaseq_mapper.git)
+git clone https://github.com/zitunstu24/multi_sp_rnaseq_mapper.git
 cd multi_sp_rnaseq_mapper
 pip install .
 ```
