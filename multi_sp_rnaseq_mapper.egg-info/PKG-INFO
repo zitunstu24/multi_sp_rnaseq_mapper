@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: multi-sp-rnaseq-mapper
+Version: 0.2.1
+Summary: Restartable multi-species RNA-seq alignment, quantification, and differential expression pipeline
+Author: Abul Khayer
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=1.5
+Requires-Dist: PyYAML>=6.0
+Provides-Extra: degs
+Requires-Dist: pydeseq2>=0.4; extra == "degs"

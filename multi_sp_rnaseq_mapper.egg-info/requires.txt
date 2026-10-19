@@ -1,0 +1,5 @@
+pandas>=1.5
+PyYAML>=6.0
+
+[degs]
+pydeseq2>=0.4

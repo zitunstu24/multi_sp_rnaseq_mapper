@@ -1,0 +1,4 @@
+[console_scripts]
+RnaMapper = multi_sp_rnaseq_mapper.pipeline:main
+multi-sp-rnaseq-mapper = multi_sp_rnaseq_mapper.pipeline:main
+rnaseq-pipeline = multi_sp_rnaseq_mapper.pipeline:main

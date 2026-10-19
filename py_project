@@ -13,5 +13,5 @@ pyyaml = "^5.4"
 sra-align = "sra_alignment_tool.main:process_samples"
 
 [build-system]
-requires = ["setuptools>=42", "wheel", "Cython==0.29.36", "numpy", "pandas", pydeseq2]
+requires = ["setuptools>=42", "wheel", "Cython==0.29.36", "pydeseq2"]
 build-backend = "setuptools.build_meta"

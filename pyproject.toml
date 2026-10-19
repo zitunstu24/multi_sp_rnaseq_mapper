@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "multi-sp-rnaseq-mapper"
+version = "0.2.1"
+description = "Restartable multi-species RNA-seq alignment, quantification, and differential expression pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Abul Khayer"}]
+dependencies = [
+    "pandas>=1.5",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+degs = ["pydeseq2>=0.4"]
+
+[project.scripts]
+rnaseq-pipeline = "multi_sp_rnaseq_mapper.pipeline:main"
+RnaMapper = "multi_sp_rnaseq_mapper.pipeline:main"
+multi-sp-rnaseq-mapper = "multi_sp_rnaseq_mapper.pipeline:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["multi_sp_rnaseq_mapper*"]
